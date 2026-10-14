@@ -1,3 +1,8 @@
+---
+name: BossHunter Skill
+description: 某直聘智能求职 Agent — 全自动化求职流水线的 Claude Code Skill。
+---
+
 # BossHunter Skill
 
 某直聘智能求职 Agent — 全自动化求职流水线的 Claude Code Skill。
